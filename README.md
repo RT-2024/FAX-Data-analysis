@@ -5,7 +5,7 @@ FAX Store Sales Analysis- 2024 First Half
 - [Introduction/Project Overview](#Introductionproject-overview)
 -	[Data Source](#Data-Source)
 -	[Tools](#Tools)
--	[Data Cleaning/Preparation](#Data=CleaningPreparation)
+-	[Data Cleaning/Preparation](#Data-CleaningPreparation)
 -	[Exploratory Data Analysis](#Exploratory-Data-Analysis)
 -	[Data Analysis](#Data-Analysis)
 -	[Results/Findings](#ResultsFindings)
