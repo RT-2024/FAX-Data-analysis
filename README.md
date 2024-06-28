@@ -80,3 +80,10 @@ I had to remove all missing values and zeros from Jan-June columns as they would
 
 ### References:
 FAX STORE RECORDS 2024
+
+*Table*
+
+  |Column1|Column2|
+  |-------|-------|
+  |SQL|Python|
+  😄 😏
