@@ -20,6 +20,10 @@ FAX Store Sales Analysis- 2024 First Half
 This is a python and SQL project on an imaginary supermarket called FAX STORE.
 This analysis project aims to analyse the sales the FAX Store made over the 1st half of the year 2024. From this data analysis, we want to identify the trend of sales, make data-driven recommendations, gain a deeper understanding of FAX store’s performance, and make critical decisions regarding the progress of the organization.
 
+
+![FAX SALE ANALYSIS CORRECTED](https://github.com/RT-2024/FAX-Data-analysis/assets/173732703/c3fb0cfd-4b10-4e75-88f0-407954177813)
+
+
 ### Data Source:
 
 The primary dataset used for this analysis is the “fax.csv” file. It contains detailed information about each sale made by the store in the 1st half of 2024.
